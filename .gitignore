@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Run outputs
+wandb/
+logs/
+*.log
+*.out
+
+# Large data / checkpoints
+*.pt
+*.pth
+*.h5
+*.npy
+*.b8
+*.01
+
+# LaTeX artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.synctex.gz
