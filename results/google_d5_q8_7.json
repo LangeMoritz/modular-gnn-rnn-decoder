@@ -1,0 +1,226 @@
+[
+ {
+  "rounds": 10,
+  "p": null,
+  "decoder": "nn",
+  "p_L": 0.03738504598160736,
+  "std": 0.0026822757170923144,
+  "shots": 5002
+ },
+ {
+  "rounds": 10,
+  "p": null,
+  "decoder": "mwpm",
+  "p_L": 0.09696121551379448,
+  "std": 0.004183891210549303,
+  "shots": 5002
+ },
+ {
+  "rounds": 13,
+  "p": null,
+  "decoder": "nn",
+  "p_L": 0.036392721455708855,
+  "std": 0.0026480664276015077,
+  "shots": 5001
+ },
+ {
+  "rounds": 13,
+  "p": null,
+  "decoder": "mwpm",
+  "p_L": 0.10197960407918416,
+  "std": 0.004279286205446158,
+  "shots": 5001
+ },
+ {
+  "rounds": 30,
+  "p": null,
+  "decoder": "nn",
+  "p_L": 0.1066,
+  "std": 0.004364319878285733,
+  "shots": 5000
+ },
+ {
+  "rounds": 30,
+  "p": null,
+  "decoder": "mwpm",
+  "p_L": 0.2408,
+  "std": 0.006046740609617714,
+  "shots": 5000
+ },
+ {
+  "rounds": 50,
+  "p": null,
+  "decoder": "nn",
+  "p_L": 0.138,
+  "std": 0.0048776223716068875,
+  "shots": 5000
+ },
+ {
+  "rounds": 50,
+  "p": null,
+  "decoder": "mwpm",
+  "p_L": 0.3202,
+  "std": 0.006598059714794948,
+  "shots": 5000
+ },
+ {
+  "rounds": 70,
+  "p": null,
+  "decoder": "nn",
+  "p_L": 0.1878,
+  "std": 0.005523244698544507,
+  "shots": 5000
+ },
+ {
+  "rounds": 70,
+  "p": null,
+  "decoder": "mwpm",
+  "p_L": 0.3994,
+  "std": 0.0069264657654535475,
+  "shots": 5000
+ },
+ {
+  "rounds": 90,
+  "p": null,
+  "decoder": "nn",
+  "p_L": 0.285,
+  "std": 0.006383964285614387,
+  "shots": 5000
+ },
+ {
+  "rounds": 90,
+  "p": null,
+  "decoder": "mwpm",
+  "p_L": 0.4234,
+  "std": 0.00698759529452014,
+  "shots": 5000
+ },
+ {
+  "rounds": 110,
+  "p": null,
+  "decoder": "nn",
+  "p_L": 0.2664,
+  "std": 0.006251896352307835,
+  "shots": 5000
+ },
+ {
+  "rounds": 110,
+  "p": null,
+  "decoder": "mwpm",
+  "p_L": 0.457,
+  "std": 0.007044870474323854,
+  "shots": 5000
+ },
+ {
+  "rounds": 130,
+  "p": null,
+  "decoder": "nn",
+  "p_L": 0.3036,
+  "std": 0.006502723121892858,
+  "shots": 5000
+ },
+ {
+  "rounds": 130,
+  "p": null,
+  "decoder": "mwpm",
+  "p_L": 0.4738,
+  "std": 0.007061353411351113,
+  "shots": 5000
+ },
+ {
+  "rounds": 150,
+  "p": null,
+  "decoder": "nn",
+  "p_L": 0.3388,
+  "std": 0.00669349774034473,
+  "shots": 5000
+ },
+ {
+  "rounds": 150,
+  "p": null,
+  "decoder": "mwpm",
+  "p_L": 0.4738,
+  "std": 0.007061353411351113,
+  "shots": 5000
+ },
+ {
+  "rounds": 170,
+  "p": null,
+  "decoder": "nn",
+  "p_L": 0.349,
+  "std": 0.0067409049837540355,
+  "shots": 5000
+ },
+ {
+  "rounds": 170,
+  "p": null,
+  "decoder": "mwpm",
+  "p_L": 0.4816,
+  "std": 0.007066278228317931,
+  "shots": 5000
+ },
+ {
+  "rounds": 190,
+  "p": null,
+  "decoder": "nn",
+  "p_L": 0.3808,
+  "std": 0.006867188070819089,
+  "shots": 5000
+ },
+ {
+  "rounds": 190,
+  "p": null,
+  "decoder": "mwpm",
+  "p_L": 0.4834,
+  "std": 0.007067169730521547,
+  "shots": 5000
+ },
+ {
+  "rounds": 210,
+  "p": null,
+  "decoder": "nn",
+  "p_L": 0.421,
+  "std": 0.006982248921371967,
+  "shots": 5000
+ },
+ {
+  "rounds": 210,
+  "p": null,
+  "decoder": "mwpm",
+  "p_L": 0.4908,
+  "std": 0.007069870720175865,
+  "shots": 5000
+ },
+ {
+  "rounds": 230,
+  "p": null,
+  "decoder": "nn",
+  "p_L": 0.415,
+  "std": 0.00696814178960216,
+  "shots": 5000
+ },
+ {
+  "rounds": 230,
+  "p": null,
+  "decoder": "mwpm",
+  "p_L": 0.4888,
+  "std": 0.007069293599787747,
+  "shots": 5000
+ },
+ {
+  "rounds": 250,
+  "p": null,
+  "decoder": "nn",
+  "p_L": 0.4138,
+  "std": 0.006965192890365636,
+  "shots": 5000
+ },
+ {
+  "rounds": 250,
+  "p": null,
+  "decoder": "mwpm",
+  "p_L": 0.503,
+  "std": 0.007070940531499328,
+  "shots": 5000
+ }
+]

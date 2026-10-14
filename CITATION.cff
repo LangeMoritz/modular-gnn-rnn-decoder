@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code, models or data, please cite the paper."
+title: "Modular GNN-RNN decoder"
+authors:
+  - {family-names: Lange, given-names: Moritz, affiliation: University of Gothenburg}
+  - {family-names: Fjeldså, given-names: Ole, affiliation: Chalmers University of Technology}
+  - {family-names: Jonasson Johansson, given-names: Gustaf, affiliation: Chalmers University of Technology}
+  - {family-names: Granath, given-names: Mats, affiliation: University of Gothenburg}
+license: MIT
+repository-code: "https://github.com/LangeMoritz/modular-gnn-rnn-decoder"
+preferred-citation:
+  type: article
+  title: "Modular Neural Decoder for Surface Code Memory and Logic on Superconducting Processors"
+  authors:
+    - {family-names: Lange, given-names: Moritz}
+    - {family-names: Fjeldså, given-names: Ole}
+    - {family-names: Jonasson Johansson, given-names: Gustaf}
+    - {family-names: Granath, given-names: Mats}
+  year: 2026
+  identifiers:
+    - {type: other, value: "arXiv:2610.03869"}
+  url: "https://arxiv.org/abs/2610.03869"
