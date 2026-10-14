@@ -1,5 +1,7 @@
 # Modular GNN-RNN decoder
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23335425.svg)](https://doi.org/10.5281/zenodo.23335425)
+
 Code, trained models and data for
 
 > M. Lange, O. Fjeldså, G. Jonasson Johansson, M. Granath,
@@ -50,7 +52,7 @@ evaluating the released models also works on a CPU.
   `data/google/d5_at_q4_7/Z/r50/detection_events.b8` exists. Stages 2 and 3 additionally
   need our calibrated p_ij detector error models
   `data/google/<patch>/Z/r<t>/decoding_results/pij_model/error_model.dem`: unzip
-  `google_pij_dems.zip` from our Zenodo record (below) into `data/google/`, or rebuild them
+  `google_pij_dems.zip` from our [Zenodo record](https://doi.org/10.5281/zenodo.23335425) into `data/google/`, or rebuild them
   with `scripts/calibrate_dem.py` from Google's `circuit_noisy_si1000*.stim` and
   `detection_events.b8`.
 * **IBM `ibm_berlin`** (Figs. 4, 6, 8, 12): our memory, stability and ZZ-merge runs,
@@ -65,7 +67,8 @@ fixed random permutation (seed 42); all reported hardware numbers use the test s
 
 ## Models
 
-`python scripts/download_models.py` fetches all models into `models/`:
+`python scripts/download_models.py` fetches all models from our
+[Zenodo record](https://doi.org/10.5281/zenodo.23335425) into `models/` and checks their SHA-256 hashes:
 
 | Model | Figure | Architecture |
 |---|---|---|
@@ -179,4 +182,4 @@ counts above are representative, and each checkpoint records its origin under `s
 
 ## License
 
-Code: MIT (`LICENSE`). Trained models and the IBM data: CC-BY-4.0 (Zenodo record).
+Code: MIT (`LICENSE`). Trained models and the IBM data: CC-BY-4.0 ([Zenodo record](https://doi.org/10.5281/zenodo.23335425)).
